@@ -1,7 +1,7 @@
 ## Introduction
-Welcome to Aspen Capital's Test Automation Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc.
+Welcome to Aspen Capital's Test Automation Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc. If you have any questions or something doesn't seem clear, don't hesitate to reach out.
 
-## Background
+## Description
 
 This application displays the 5 day weather forecast for a given location.
 
@@ -19,9 +19,9 @@ This application displays the 5 day weather forecast for a given location.
 
 * All values should be rounded down
 
-* We would like the application to be tested against the requirements above. But that is only a starting place. Add any funtional or non-functional tests you see as approprite. Feel free to include mindmaps, decision tables, or other tools you use to design the tests. You can add BDD tests (Gherkin) or any other types you think appriate.
+* We would like the application to be tested against the description above. But that is only a starting place. Add any funtional or non-functional tests you see as approprite. Feel free to include mindmaps, decision tables, or other tools you use to design the tests. You can add BDD tests or any other types you think appropriate.
 
-* You can use the language and test framework of your choice.
+* You can use the language and framework of your choice.
 
 * Make sure that your test scenarios and code are clear, demonstrate good practices, and that you include a README file explaining how to build and run your solution.
 
