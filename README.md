@@ -15,7 +15,7 @@ You are an independent testing consultant who has been hired to develop an autom
 
 
 ### Technical Details
-The API is available at https://openweathermap.org/api). 
+The API is available at https://openweathermap.org/api. 
 
 ## Submission
 * Your submission should be accessible in a public git repository that includes a README.md with all the pertinent information of how to run your application. 
