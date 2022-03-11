@@ -27,22 +27,7 @@ This application displays the 5 day weather forecast for a given location.
 
 
 ### Technical
-
-The application is running in "test" mode, using a set of test data, matching that which comes from the public API at OpenWeatherMap (http://openweathermap.org/forecast5). 
-There is test data for a number of locations, found in the folder src/data.
-
-You should find that every important part of the HTML produced has been marked with data-test attributes.
-
-To run the app locally:
-
-You'll need node and npm installed - first off, install the required dependencies:
-
-$ npm install
-
-To start up the application:
-
-$ npm run develop
-
+The data is available from public API at OpenWeatherMap (http://openweathermap.org/forecast5). 
 
 ## Submission
 * Your submission should be accessible in a public git repository that includes a README.md with all the pertinent information of how to run your application. 
