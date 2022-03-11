@@ -1,33 +1,21 @@
 ## Introduction
-Welcome to Aspen Capital's Test Automation Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc. If you have any questions or something doesn't seem clear, don't hesitate to reach out.
+Welcome to Aspen Capital's Test Automation Engineer project. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc. If you have any questions or something doesn't seem clear, don't hesitate to reach out. This is an exercise in order to get to know you technically. Have fun with it.
 
 ## Description
 
-This application displays the 5 day weather forecast for a given location.
-
-* Enter city name, get 5 day weather forecast
-* Select day, get 3 hour forecast
-* Select day again, hide 3 hour forecast
-* Daily forecast should summarise the 3 hour data:
-	* Most dominant (or current) condition
-	* Most dominant (or current) wind speed and direction
-	* Aggregate rainfall
-	* Minimum and maximum temperatures
-
+You are an independent testing consultant who has been hired to develop an automated testing framework for a weather data API. The company hopes to provide the API to companies to integrate into their products. There is a lot of change behind the API as we innovate and the company is very concerned about regression risks as the stability and accuracy of the API is very important to sales opportunities. 
 
 ## Requirements
-
-* All values should be rounded down
-
-* We would like the application to be tested against the description above. But that is only a starting place. Add any funtional or non-functional tests you see as approprite. Feel free to include mindmaps, decision tables, or other tools you use to design the tests. You can add BDD tests or any other types you think appropriate.
+* We would like the application to be tested against the description and risks above. But that is only a starting place. Recommend any funtional or non-functional tests you see as approprite to help build out a complete testing program. If time allows, add any additional documentation, diagrams, or models, that describe the work you did or your recommendations.
+* Make any simplifying choices you need to match the scope of the project. For example, pick a subset of the API to focus on but document your decision as to why you consider this the "core" of the API, for example.
 
 * You can use the language and framework of your choice.
 
 * Make sure that your test scenarios and code are clear, demonstrate good practices, and that you include a README file explaining how to build and run your solution.
 
 
-### Technical
-The data is available from public API at OpenWeatherMap (http://openweathermap.org/forecast5). 
+### Technical Details
+The API is available at https://openweathermap.org/api). 
 
 ## Submission
 * Your submission should be accessible in a public git repository that includes a README.md with all the pertinent information of how to run your application. 
