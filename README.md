@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to Aspen Capital's Test Automation Engineer project. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc. If you have any questions or something doesn't seem clear, don't hesitate to reach out. This is an exercise in order to get to know you technically. Have fun with it.
+Welcome to Aspen Capital's Test Automation Engineer project. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below, and if time permitting, work on any additional features of your own choosing. These additional features can be enhancements to the basic framework, setup to run in a CI/CD pipeline, etc. If you have any questions or something doesn't seem clear, don't hesitate to reach out. This is an exercise in order to get to know you technically. Have fun with it. If you have a public API you like better, feel free to use it. The suggested one is just a suggestion.
 
 ## Description
 
